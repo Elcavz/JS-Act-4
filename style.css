@@ -1,0 +1,22 @@
+.d-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.d-flex .row {
+    flex-direction: row;
+}
+
+.d-flex h5 {
+    opacity: 0%;
+}
+
+.my-3 {
+    padding-top: 20px;
+}
+
+.my-3 button {
+    width: 62.5px;
+    height: 25px;
+    font-size: x-large;
+}
